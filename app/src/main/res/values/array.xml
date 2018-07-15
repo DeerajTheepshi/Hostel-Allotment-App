@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="floorAll">
+        <item>Floor Allotted</item>
+        <item>Ground Floor</item>
+        <item>First Floor</item>
+        <item>Second Floor</item>
+        <item>Third Floor</item>
+    </string-array>
+    <string-array name="floorNeed">
+        <item>Floor Needed</item>
+        <item>Ground Floor</item>
+        <item>First Floor</item>
+        <item>Second Floor</item>
+        <item>Third Floor</item>
+    </string-array>
+    <string-array name="hostel">
+        <item>Amber</item>
+        <item>Zircon</item>
+        <item>Garnet</item>
+    </string-array>
+</resources>
